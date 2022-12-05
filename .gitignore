@@ -1,3 +1,5 @@
+.*.sw*
 *.egg-info
 *.so
 build*
+dist

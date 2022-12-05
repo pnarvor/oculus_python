@@ -170,7 +170,7 @@ class CMakeBuild(build_ext):
 # logic and declaration, and simpler if you include description/version in a file.
 setup(
     name="oculus_python",
-    version="0.0.1",
+    version="1.2.1",
     author="Pierre Narvor",
     author_email="pierre.narvor@ensta-bretagne.fr",
     description="Python wrapper for the oculus_driver library.",
